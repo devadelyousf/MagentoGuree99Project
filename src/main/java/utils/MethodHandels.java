@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import pages.LoginPage;
 
 public class MethodHandels {
-    LoginPage loginPage;
   protected   WebDriver driver;
 
     public MethodHandels(WebDriver driver) {

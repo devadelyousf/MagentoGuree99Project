@@ -17,9 +17,4 @@ public class DashboardPage extends MethodHandels {
         click(reOrderLink);
         return new ShoppingCartPage(driver);
     }
-    public void insertLogin(String mail,String pass){
-        insertLogin(mail,pass);
-    }
-
-
 }

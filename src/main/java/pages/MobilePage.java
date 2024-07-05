@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 import utils.MethodHandels;
 
-import java.util.Iterator;
+
 import java.util.Set;
 
 public class MobilePage extends MethodHandels {

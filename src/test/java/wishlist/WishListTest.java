@@ -2,8 +2,6 @@ package wishlist;
 
 import base.BaseTest;
 import org.testng.annotations.Test;
-import pages.*;
-
 import java.io.FileNotFoundException;
 
 
