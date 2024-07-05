@@ -1,0 +1,19 @@
+{
+  "URL": "http://live.techpanda.org/index.php/",
+  "LOGIN": {
+    "Email": "adelyousf@gmail.com",
+    "Password": "123456789"
+  },
+  "REGISTER": {
+    "FirstName": "Adel",
+    "MidName": "Ali",
+    "LastName": "Youssif",
+    "Email": "adelyousf@gmail.com",
+    "Password": "123456789",
+    "ConfirmPassword": "123456789"
+  },
+  "ErrorMessage": " The maximum quantity allowed for purchase is 500.",
+  "ShoppingMessage": "SHOPPING CART IS EMPTY",
+  "TitleOfHomePage": "Home page",
+  "TitleOfMobilePage": "Mobile"
+}

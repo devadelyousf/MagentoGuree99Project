@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Magento Project">
+    <test name="Test Basics 1">
+        <classes>
+            <class name="register.RegisterationTest"/>
+            <class name="product.CheckOutTest"/>
+            <class name="product.AsserErrorMessageTest"/>
+            <class name="product.CompareProductTest"/>
+            <class name="product.HomeTest"/>
+            <class name="product.MobileTest"/>
+            <class name="product.ReOrderTest"/>
+            <class name="wishlist.WishListTest"/>
+        </classes>
+    </test>
+</suite>
